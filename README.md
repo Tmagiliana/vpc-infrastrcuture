@@ -1,1 +1,1 @@
-# vpc-infrastrcuture
+# vpc-infrastructure
